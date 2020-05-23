@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Book Review: Bertrand Russell's 'History of Western Philosophy'
 
