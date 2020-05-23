@@ -7,12 +7,12 @@ published: false
 <p>"History of Western Philosophy" is a book the internet has recommended many times as an entry-point to philosophy. Many will tell you this isn't because it's the most precise or most comprehensive, but because it makes philosophy - a field that's known to laypeople as obtuse and esoteric - easy to view in a broad and accessible way. I'd agree.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>The book has a few commonly noted weaknesses, which make it surprising to me it still stands as 'the best introduction' to philosophy. It was published in 1945. That's about 80 years of new work, and new perspectives on old work in philosophy since, that the book doesn't and can't address. </p>
+<!-- /wp:paragraph -->
+As the title suggests, you're looking at an overview of the most important movements and thinkers in the western philosophical tradition - the likes of Plato, Thomas Aquinas and Kant. It's not exactly academic or impartial, but it's written by Sir Bertrand Russell, who is a well-respected and fairly orthodox philosopher. If you really just want to dive into more radical or modern philosophers, or if you're interested in philosophy solely for what can be applied directly to your day to day life (like those modern pseudo-stoics)... not for you! This book is engaging, but it spends a lot of time on philosophers who are historically prominent, but wholly irrelevant today.
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Some reviewers have also noted some historical information is also out-of-date given the less developed dating and investigative methods of the 1940s, but I can't credibly comment on that.</p>
+<p>The book has a few commonly noted weaknesses, which make it surprising to me it still stands as 'the best introduction' to philosophy. It was published in 1945. That's about 80 years of new work, and new perspectives on old work in philosophy since, that the book doesn't and can't address. Some reviewers also note historical inaccuracy, due to the inevitable outdatedness of the historical picture in the 1940s. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -32,15 +32,15 @@ published: false
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><br>This view isn't comprehensive though - it's transparently subject to Sir Russell's biases, which leads to several notable thinkers being omitted and some getting much more time and detailed examination than others for not much reason. This book isn't a definitive statement and like any other you'll need to do secondary research to get a full picture. <br>Bertie is a humanist analytical thinker, but he makes his biases clear. They don't become overbearing until the last few hundred pages, and even then an orthodox modern reader wouldn't take issue with any of his stances - except possibly that he's a little too harsh on Marxism or Romanticism, depending on your political leanings.</p>
+<p><br>This view isn't comprehensive though - it's transparently subject to Sir Russell's biases, which leads to several notable thinkers being omitted and some getting much more time and detailed examination than others for not much reason. This book isn't a definitive statement and like any other you'll need to do secondary research to get a full picture. <br>Bertie is a humanist analytical thinker, but he makes his biases clear, and a typical reader will likely agree or sympathise with his views. 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p></p>
+Not that Bertie isn't willing to dish out the criticism. This is a necessary part of a history of philosophy, full of figures who often get wrapped up in myth; and to a new student, it's helpful in seeing that there are many perspectives on every important school of thought. Notably, he calls Plato's Socrates dishonest and notes his orphic saint-like nature, in contrast to the common view of Socrates in light of his successors rather than his primitive predecessors. He says Stoicism has a strong element of 'sour grapes'. He condemns Sparta for being a brutal military aristocracy, where Spartan society is sometimes admired even now for it's martial fanaticism. There's a fair bit of this throughout, so stay aware that it's not a complete multi-dimensional appraisal.
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The book shows some obvious bias towards philosophers in the modern era - Russell retains an aloof tone but obviously hasn't inhabited and really considered the philosophical worlds of Nietzsche (then more strongly associated with Nazism then he is now, and considered part of the romantic lineage of philosophy which Russell disdains) and Marx (who Russell judges as motivated by hate, and whose philosophy Russell doesn't explain in detail), for two examples.</p>
+<p>The book shows some obvious bias towards philosophers in the modern era - Russell retains an aloof tone but obviously hasn't inhabited and really considered the philosophical worlds of Nietzsche (then more strongly associated with Nazism than he is now, and considered part of the romantic lineage of philosophy which Russell disdains) and Marx (who Russell judges as motivated by hate, and whose philosophy Russell doesn't explain in detail).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
